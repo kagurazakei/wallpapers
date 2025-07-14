@@ -6,12 +6,24 @@ A beautiful, curated collection of wallpapers for desktops, lock screens, or cre
 
 ---
 
-## 🌅 Preview
-
-Here are a few handpicked examples from the collection:
+# 🌅 Wallpaper Preview
 
 |   |   |   |
 |---|---|---|
+| <img src="kagurazakimei-0001.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0003.png" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0004.jpg" width="300" style="margin:4px;"/> |
+| <img src="kagurazakimei-0005.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0006.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0007.jpg" width="300" style="margin:4px;"/> |
+| <img src="kagurazakimei-0008.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0009.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0010.png" width="300" style="margin:4px;"/> |
+| <img src="kagurazakimei-0011.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0012.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0013.jpg" width="300" style="margin:4px;"/> |
+| <img src="kagurazakimei-0014.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0015.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0016.jpg" width="300" style="margin:4px;"/> |
+| <img src="kagurazakimei-0017.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0018.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0019.jpg" width="300" style="margin:4px;"/> |
+| <img src="kagurazakimei-0020.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0021.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0022.jpg" width="300" style="margin:4px;"/> |
+| <img src="kagurazakimei-0023.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0024.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0025.jpg" width="300" style="margin:4px;"/> |
+| <img src="kagurazakimei-0026.png" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0027.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0028.jpg" width="300" style="margin:4px;"/> |
+| <img src="kagurazakimei-0029.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0030.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0031.jpg" width="300" style="margin:4px;"/> |
+| <img src="kagurazakimei-0032.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0033.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0034.jpg" width="300" style="margin:4px;"/> |
+| <img src="kagurazakimei-0035.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0036.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0037.jpg" width="300" style="margin:4px;"/> |
+| <img src="kagurazakimei-0038.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0039.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0040.jpg" width="300" style="margin:4px;"/> |
+| <img src="kagurazakimei-0041.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0042.jpg" width="300" style="margin:4px;"/> | <img src="kagurazakimei-0043.jpg" width="300" style="margin:4px;"/> |
 | <img src="shoujo-0001.png" width="300" style="margin:4px;"/> | <img src="shoujo-0002.jpg" width="300" style="margin:4px;"/> | <img src="shoujo-0003.jpg" width="300" style="margin:4px;"/> |
 | <img src="shoujo-0004.jpg" width="300" style="margin:4px;"/> | <img src="shoujo-0005.jpg" width="300" style="margin:4px;"/> | <img src="shoujo-0006.jpg" width="300" style="margin:4px;"/> |
 | <img src="shoujo-0007.jpg" width="300" style="margin:4px;"/> | <img src="shoujo-0008.jpg" width="300" style="margin:4px;"/> | <img src="shoujo-0009.png" width="300" style="margin:4px;"/> |
@@ -154,10 +166,6 @@ Here are a few handpicked examples from the collection:
 | <img src="shoujo-0430.jpg" width="300" style="margin:4px;"/> | <img src="shoujo-0431.jpg" width="300" style="margin:4px;"/> | <img src="shoujo-0432.jpg" width="300" style="margin:4px;"/> |
 | <img src="shoujo-0433.jpg" width="300" style="margin:4px;"/> | <img src="shoujo-0434.jpg" width="300" style="margin:4px;"/> | <img src="shoujo-0435.jpg" width="300" style="margin:4px;"/> |
 | <img src="shoujo-0436.jpg" width="300" style="margin:4px;"/> | <img src="shoujo-0437.jpg" width="300" style="margin:4px;"/> |   |
----
-
-> _More wallpapers available in the repo directory._
-
 ---
 
 ## 📂 Structure
